@@ -1,0 +1,29 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# Compiled
+*.py[cod]
+*$py.class
+*.so
+
+# Backup files
+*.bak
+*.swp
+*.swo
